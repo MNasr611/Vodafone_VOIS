@@ -1,0 +1,5 @@
+landingPage = http://automationpractice.com/index.php
+afterSignUpPageUrl = http://automationpractice.com/index.php?controller=my-account
+blouses = http://automationpractice.com/index.php?id_category=7&controller=category
+resultedProductLink = http://automationpractice.com/index.php?id_category=7&controller=category
+signInLink = http://automationpractice.com/index.php?controller=authentication&back=my-account
